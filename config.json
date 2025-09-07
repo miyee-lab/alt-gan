@@ -1,0 +1,8 @@
+{
+  "bot_prefix": ".",
+  "bot_token": "DISCORD-BOT-TOKEN",
+  "channelId": 1413894845608628275,
+  "pingRoleId": 1410353830972883134,
+  "logChannelId": 1413878181592563884,
+  "getAccCooldown": 700
+}
